@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Savidu Lakisha @SaviduL
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning web development and software designing
+- 🌱 I’m currently learning web development and working as Software Engineer
 - 💞️ I’m looking to collaborate on projects...
 - 
 - 📫 How to reach me ...
